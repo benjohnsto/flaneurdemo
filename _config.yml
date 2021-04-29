@@ -4,7 +4,7 @@
 title: "Flâneur: a Jekyll theme for maps and text"
 email: dchildress@library.ucla.edu
 description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+baseurl: "/flaneurdemo" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/benjohnsto/flaneurdemo
 
