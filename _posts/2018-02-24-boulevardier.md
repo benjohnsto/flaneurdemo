@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Boulevardier: The Cocktail"
+title: "Switch to bridge"
 timelinedate: 2013-09-01
-categories: ["Cocktails"]
-author: "Dawn Childress"
+categories: ["Bridges"]
+author: "Ben Johnston"
 lat: 48.869219
 lng: 2.3322078999999576
 headertitle: "Header title here"
