@@ -2,7 +2,7 @@
 
 # --SITE SETTINGS--
 title: "A demonstration mapping project"
-email: dchildress@library.ucla.edu
+email: benj@princeton.edu
 description: This demo project was constructed using the Flâneur theme for Jekyll
 baseurl: "/flaneurdemo" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
