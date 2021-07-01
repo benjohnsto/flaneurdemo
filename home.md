@@ -4,5 +4,6 @@ title: ""
 order: 1
 menutitle: Home
 ---
-Playing around with Jekyll with this cool project.
+The website is a demonstration of the Flâneur jekyll theme. This theme combines text and images with a map to create a website hosted on GitHub.
+
 
